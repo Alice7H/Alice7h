@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/alice7h?style=social"/>
+  <img src="https://img.shields.io/github/followers/Alice7H?style=social"/>
   <img src="https://img.shields.io/github/last-commit/alice7h/Alice7H"/>
   <img src="https://img.shields.io/badge/status-in%20progress-blue"/>
 </p>
