@@ -1,11 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Alice7H?style=social"/>
-  <img src="https://img.shields.io/github/last-commit/alice7h/Alice7H"/>
-  <img src="https://img.shields.io/badge/status-in%20progress-blue"/>
-</p>
-
 <p align="left">I'm Alice and I'm passionate frontend student from Brazil</p>
 
 - 👨‍💻 Most of my projects are available on Github.
