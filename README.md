@@ -28,6 +28,6 @@
 </p>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice7h&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice7h&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alice7h&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&rank_icon=github"/>
 </p>
