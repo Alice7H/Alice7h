@@ -10,7 +10,7 @@
 - 💼 Currently open for a new job opportunity.
 - 📫 How to reach me:
   
-  [![Perfil DIO](https://img.shields.io/badge/-My%20DIO%20PROFILE-000?style=for-the-badge)](https://web.dio.me/users/alicehata9) [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F")](mailto:alicehata9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alice-hata/)
+  [![Perfil DIO](https://img.shields.io/badge/-My%20DIO%20PROFILE-000?style=for-the-badge)](https://www.dio.me/users/alicehata9) [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F")](mailto:alicehata9@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alice-hata/)
 
 ### 📚 Languages and Tools
 
